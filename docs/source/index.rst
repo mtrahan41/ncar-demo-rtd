@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   test-page1
+   test-page2
