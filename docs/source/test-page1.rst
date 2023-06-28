@@ -8,9 +8,10 @@ Lists
 -----
 
 Lists like these should work
+
 * Item 1
 * Item 2
-  
+
     * Subitem 1
     * Subitem 2
     * Subitem 3
@@ -33,6 +34,8 @@ Code example
     }
 
 Example links:
+
+This paragraph contains several hyperlinks. heres `a link`_. Heres `another link_.`
 
 .. _a link: https://ncar.ucar.edu/what-we-offer/computational-resources
 .. _another link: https://en.wikipedia.org/wiki/NCAR-Wyoming_Supercomputing_Center
