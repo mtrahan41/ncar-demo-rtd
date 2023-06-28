@@ -43,9 +43,8 @@ This paragraph contains several hyperlinks. heres `a link`_. Heres `another link
 Images
 ------
 
-.. image:: NSF-supported_Research_Facilities_%2815326178104%29.jpg
-    :target: https://upload.wikimedia.org/wikipedia/commons/b/b4/NSF-supported_Research_Facilities_%2815326178104%29.jpg
-
+.. image::
+    :target: https://kb.ucar.edu/download/attachments/embedded-page/RC/User%20documentation%20for%20NCAR%20high-performance%20computing/derecho_logo1600X560.png?api=v2
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
 | (header rows optional) |            |          |          |
