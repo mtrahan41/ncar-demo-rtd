@@ -35,7 +35,7 @@ Code example
 
 Example links:
 
-This paragraph contains several hyperlinks. heres `a link`_. Heres `another link_.`
+This paragraph contains several hyperlinks. heres `a link`_. Heres `another link`_.
 
 .. _a link: https://ncar.ucar.edu/what-we-offer/computational-resources
 .. _another link: https://en.wikipedia.org/wiki/NCAR-Wyoming_Supercomputing_Center
