@@ -22,3 +22,5 @@ Suspendisse eu purus vel nunc fermentum euismod sagittis ut sapien. Proin congue
 
 Reference links
 ---------------
+
+:doc:`RST Test Page`
