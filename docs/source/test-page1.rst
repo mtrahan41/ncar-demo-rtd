@@ -1,5 +1,5 @@
 ============
-MD Test Page
+RST Test Page
 ============
 
 This page tests MD support in base read the docs and shall go over some features that should work in a basic page
