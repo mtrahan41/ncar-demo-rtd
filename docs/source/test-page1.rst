@@ -18,11 +18,13 @@ Lists like these should work
 * Item 3
   
 Item 3 in particular is of note so it should be **bold**
-Italics should also function in this text. We *shall* try now
+Italics should also ``function`` in this text. We *shall* try now
 
-Code example ::
+Code example 
 
-    Heres some code 
+.. code-block::
+    :caption: Heres some code 
+    
     code.sh
     test loop () {
         for i in x; do
@@ -37,8 +39,15 @@ Example links:
 Images
 ------
 
-.. image: NSF-supported_Research_Facilities_%2815326178104%29.jpg
-  :target: https://upload.wikimedia.org/wikipedia/commons/b/b4/NSF-supported_Research_Facilities_%2815326178104%29.jpg
+.. image:: NSF-supported_Research_Facilities_%2815326178104%29.jpg
+    :target: https://upload.wikimedia.org/wikipedia/commons/b/b4/NSF-supported_Research_Facilities_%2815326178104%29.jpg
 
-
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | ...        | ...      |          |
++------------------------+------------+----------+----------+
 
